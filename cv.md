@@ -9,7 +9,7 @@ Senior Software Testing Engineer with more than 6 years of experience. For the l
 I consider learning javascript as a step forward in my career and life, chance to try something new, to test myself.
 
 ## Key tech skills
-CSS, HTML, JS Basics, Adobe Photoshop, gimp, Microsoft FrontPage, Agile(KANBAN, SCRUM)
+CSS, HTML, JS Basics, Adobe Photoshop, gimp, Microsoft FrontPage, Oracle VirtualBox, Agile(KANBAN, SCRUM)
 
 Testing
 * Functional Testing
@@ -25,7 +25,7 @@ Testing
 ## Experience
 ### *Mar-2017 - till now*
 
-Tester, ​ https://www.utest.com/
+**Tester**, ​ https://www.utest.com/
 
 Project:​ Slack, AUDI AG
 
@@ -43,12 +43,11 @@ Environment:
 
 ### *Dec-2015 – Mar-2017*
 
-I moved to Japan, self-studied UI testing automation using Selenium WebDriver with Java. Starte
-learning Japanese.
+I moved to Japan, self-studied UI testing automation using Selenium WebDriver with Java. Started learning Japanese.
 
 ### *Dec-2014 – Dec-2015*
 
-Senior Software Testing Engineer, EPAM Systems, http://www.epam.com
+**Senior Software Testing Engineer**, EPAM Systems, http://www.epam.com
 
 Project:​ BURB-ATG
 
@@ -73,7 +72,7 @@ Environment:
 (2009).
 
 ## English
-I have certificate (CEF LEVEL B2) from International House World Organisation International House Minsk.
+I have certificate (**CEF LEVEL B2**) from International House World Organisation International House Minsk.
 
 I always use English at work.
 
